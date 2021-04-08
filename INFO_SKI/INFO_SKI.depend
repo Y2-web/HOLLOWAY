@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1617806991 source:c:\users\admin\holloway\info_ski\graphe.cpp
+	"graphe.h"
+
+1617808400 source:c:\users\admin\holloway\info_ski\main.cpp
+	"graphe.h"
+
+1617808400 source:c:\users\admin\holloway\info_ski\arcs.cpp
+	"arcs.h"
+
+1617808502 c:\users\admin\holloway\info_ski\arcs.h
+	"sommet.h"
+
+1617816440 c:\users\admin\holloway\info_ski\graphe.h
+	"sommet.h"
+	"arcs.h"
+	<stdio.h>
+	<utility>
+	<fstream>
+
+1617816440 c:\users\admin\holloway\info_ski\sommet.h
+	<string>
+	<vector>
+	<iostream>
+
+1617816440 source:c:\users\admin\holloway\info_ski\sommet.cpp
+	"sommet.h"
+	<iostream>
+
