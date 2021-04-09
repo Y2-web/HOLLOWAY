@@ -20,3 +20,23 @@ arcs:: ~arcs()
 {
 
 }
+
+int arcs::getPointD() const
+{
+    return m_pointD;
+}
+
+int arcs::getPointA() const
+{
+    return m_pointA;
+}
+
+std::string arcs:: getNom() const
+{
+    return m_nom;
+}
+
+std::string arcs:: getType() const
+{
+    return m_type;
+}

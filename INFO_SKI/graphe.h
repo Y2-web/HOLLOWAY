@@ -11,10 +11,15 @@ class graphe
 private:
     unsigned int m_ordre;
     unsigned int m_taille;
-public:
     std::vector<sommet> m_sommets;
     std::vector<arcs> m_arcs;
+public:
+
     graphe(std:: string nomFichier);
+    unsigned int getOrdre() const;
+    unsigned int getTaille() const;
+    std::vector<sommet> getSommets() const;
+    std::vector<arcs> getArcs() const;
 
 
 

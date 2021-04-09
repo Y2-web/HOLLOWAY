@@ -15,6 +15,10 @@ public:
     arcs();
     arcs(int _num,std:: string _nom, std:: string _type,int _pointD, int _pointA);
     ~arcs();
+    int getPointD() const;
+    int getPointA() const;
+    std::string getNom() const;
+    std::string getType() const;
 
 };
 

@@ -1,6 +1,24 @@
 #include "graphe.h"
 
+unsigned int graphe:: getOrdre() const
+{
+    return m_ordre;
+}
 
+unsigned int graphe:: getTaille() const
+{
+    return m_taille;
+}
+
+std::vector<sommet> graphe :: getSommets() const
+{
+    return m_sommets;
+}
+
+std::vector<arcs> graphe :: getArcs() const
+{
+    return m_arcs;
+}
 
 graphe:: graphe(std:: string nomFichier)
 {
@@ -39,7 +57,7 @@ graphe:: graphe(std:: string nomFichier)
          m_arcs.push_back(A);
      }
 
-     std:: cout<<liste_voisins[2][1].getNum()<<std::endl;
+    /// exemple d'un voisin de 3 ---> std:: cout<<liste_voisins[2][1].getNum()<<std::endl;
 
 
     }
