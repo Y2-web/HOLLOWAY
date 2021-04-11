@@ -16,6 +16,7 @@ public:
     sommet(int _num, std:: string _nom, int _altitude);
     ~sommet();
     int getNum() const;
+    int getAltitude() const;
     /*accesseur : pour la liste des successeurs
     std::vector<sommet>& getSuccesseurs();
     // pour ajouter un successeur à la liste

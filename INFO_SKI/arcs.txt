@@ -37,100 +37,100 @@
 36	arc1800	1715		
 37	37	2100		
 95
-1	aiguille-rouge	TPH	12	5
-2	aiguille-rouge1	N	5	4
-3	aiguille-rouge2	N	4	3
-4	aiguille-rouge3	N	3	2
-5	aiguille-rouge4	N	2	1
-6	arandeliere	R	5	12
-7	arpette	TS	31	15
-8	belvedere1	B	18	19
-9	belvedere2	B	19	31
-10	belvedere3	B	31	35
-11	bois-de-l'ours	TS	10	15
-12	bosses	TK	16	26
-13	cachette	R	21	30
-14	cachette	TSD	30	21
-15	carreley	R	31	36
-16	carreley	TS	36	31
-17	cascade	B	10	8
-18	chantel	B	34	36
-19	chantel	TS	36	34
-20	clair-blanc	R	15	31
-21	clair-blanc	TS	31	22
-22	clapet	B	17	21
-23	clocheret	R	17	31
-24	clocheret	TS	31	17
-25	col-de-la-chal	B	26	14
-26	col-des-frettes	R	23	24
-27	col-des-frettes	TS	31	23
-28	col-du-renard	B	26	32
-29	combes	N	4	6
-30	combettes	TS	30	28
-31	comborciere	N	18	8
-32	comborciere	TS	8	18
-33	dent-du-peigne	B	32	25
-34	deux-tetes	TK	20	19
-35	deux-tetes	N	19	20
-36	dou-de-l-homme	N	12	11
-37	droset	N	4	8
-38	fond-blanc	B	22	31
-39	fond-blanc	N	15	22
-40	frettes	TK	31	24
-41	froide-fontaine	R	27	31
-42	genepy	N	5	6
-43	gollet	B	31	30
-44	gollet	TS	30	31
-45	grand-col	R	13	14
-46	grand-col	TS	14	13
-47	grand-renard	R	32	33
-48	grand-renard	TS	33	32
-49	lac-combes	TK	7	6
-50	lanches	N	12	9
-51	lanchettes	TS	7	4
-52	malgovert	R	18	20
-53	marmotte	TK	10	11
-54	marmottes	B	11	10
-55	mont-blanc	B	20	30
-56	mont-blanc	TS	30	20
-57	muguet	N	17	8
-58	navette1600-1800	BUS	30	36
-59	navette1800-1600	BUS	36	30
-60	navette1600-2000	BUS	30	7
-61	navette2000-1600	BUS	7	30
-62	ours	N	15	10
-63	plagnettes	TSD	11	26
-64	plan	B	23	11
-65	plan-des-eaux	B	26	16
-66	plan-vert	B	26	25
-67	plan-vert	TK	25	26
-68	plan-violettes	TS	2	3
-69	pre-saint-esprit	TS	8	11
-70	refuge	N	13	14
-71	replat	TS	1	2
-72	reservoir	R	4	6
-73	rhonaz	B	3	8
-74	saint-jacques	B	11	9
-75	saint-jacques	TS	9	11
-76	snowpark	SURF	24	31
-77	soliet1	R	4	3
-78	soliet2	R	3	2
-79	soliet3	R	2	1
-80	tetras	R	27	35
-81	tommelet	TK	30	29
-82	transarc1	TC	36	37
-83	transarc2	TC	37	26
-84	tuffes	R	26	16
-85	vagere	TK	35	27
-86	vallee-de-l-arc1	B	14	16
-87	vallee-de-l-arc2	B	16	11
-88	vallee-de-l-arc	R	11	10
-89	varet	TC	9	12
-90	vezaille	TK	28	29
-91	villards	B	37	36
-92	villards	TSD	36	33
-93	villaroger1	B	8	2
-94	villaroger2	B	2	1
-95	vitesse	KL	12	6
+1	aiguille-rouge  	TPH	12	5        240        120   
+2	aiguille-rouge1 	N	5	4        120        0
+3	aiguille-rouge2 	N	4	3        120        0
+4	aiguille-rouge3  	N	3	2        120        0
+5	aiguille-rouge4    	N	2	1        120        0
+6	arandeliere	        R	5	12       180        0
+7	arpette	                TS	31	15       60         240
+8	belvedere1	        B	18	19       240        0
+9	belvedere2	        B	19	31       240        0 
+10	belvedere3	        B	31	35       240        0
+11	bois-de-l'ours	        TS	10	15       60         240
+12	bosses	                TK	16	26       60         240
+13	cachette	        R	21	30       180        0
+14	cachette	        TSD	30	21       60         180
+15	carreley	        R	31	36       180        0
+16	carreley	        TS	36	31       60         240
+17	cascade	                B	10	8        240        0
+18	chantel	                B	34	36       240        0
+19	chantel	                TS	36	34       60         240
+20	clair-blanc	        R	15	31       180        0
+21	clair-blanc	        TS	31	22       60         240
+22	clapet	                B	17	21       240        0
+23	clocheret	        R	17	31       180        0
+24	clocheret	        TS	31	17       60         240
+25	col-de-la-chal	        B	26	14       240        0
+26	col-des-frettes	        R	23	24       180        0
+27	col-des-frettes	        TS	31	23       60         240
+28	col-du-renard	        B	26	32       240        0
+29	combes	                N	4	6        120        0
+30	combettes	        TS	30	28       60         240
+31	comborciere	        N	18	8        120        0
+32	comborciere	        TS	8	18       60         240
+33	dent-du-peigne	        B	32	25       240        0
+34	deux-tetes	        TK	20	19       60         240
+35	deux-tetes	        N	19	20       120        0 
+36	dou-de-l-homme   	N	12	11       120        0
+37	droset	                N	4	8        120        0
+38	fond-blanc	        B	22	31       240        0
+39	fond-blanc	        N	15	22       120        0
+40	frettes	                TK	31	24       60         240
+41	froide-fontaine   	R	27	31       180        0
+42	genepy	                N	5	6        120        0
+43	gollet	                B	31	30       240        0
+44	gollet	                TS	30	31       60         240
+45	grand-col	        R	13	14       180        0
+46	grand-col	        TS	14	13       60         240
+47	grand-renard	        R	32	33       180        0
+48	grand-renard	        TS	33	32       60         240
+49	lac-combes	        TK	7	6        60         240
+50	lanches	                N	12	9        120        0
+51	lanchettes	        TS	7	4        60         240
+52	malgovert	        R	18	20       180        0
+53	marmotte	        TK	10	11       60         240
+54	marmottes	        B	11	10       240        0
+55	mont-blanc	        B	20	30       240        0
+56	mont-blanc	        TS	30	20       60         240
+57	muguet	                N	17	8        120        0
+58	navette1600-1800	BUS	30	36       1800       0
+59	navette1800-1600	BUS	36	30       1800       0
+60	navette1600-2000	BUS	30	7        2400       0
+61	navette2000-1600	BUS	7	30       2400       0
+62	ours	                N	15	10       120        0
+63	plagnettes	        TSD	11	26       60         180
+64	plan	                B	23	11       240        0
+65	plan-des-eaux	        B	26	16       240        0
+66	plan-vert	        B	26	25       240        0 
+67	plan-vert	        TK	25	26       60         240
+68	plan-violettes	        TS	2	3        60         240
+69	pre-saint-esprit	TS	8	11       60         240
+70	refuge	                N	13	14       120        0
+71	replat	                TS	1	2        60         240
+72	reservoir	        R	4	6        180        0
+73	rhonaz	                B	3	8        240        0
+74	saint-jacques	        B	11	9        240        0
+75	saint-jacques	        TS	9	11       60         240
+76	snowpark	        SURF	24	31       600        0
+77	soliet1          	R	4	3        180        0
+78	soliet2         	R	3	2        180        0
+79	soliet3         	R	2	1        180        0
+80	tetras	                R	27	35       180        0
+81	tommelet	        TK	30	29       60         240
+82	transarc1	        TC	36	37       120        180
+83	transarc2	        TC	37	26       120        180
+84	tuffes	                R	26	16       180        0
+85	vagere	                TK	35	27       60         240
+86	vallee-de-l-arc1	B	14	16       240        0
+87	vallee-de-l-arc2	B	16	11       240        0
+88	vallee-de-l-arc   	R	11	10       180        0
+89	varet	                TC	9	12       120        180
+90	vezaille	        TK	28	29       60         240
+91	villards	        B	37	36       240        0
+92	villards	        TSD	36	33       60         180
+93	villaroger1	        B	8	2        240        0
+94	villaroger2	        B	2	1        240        0
+95	vitesse	                KL	12	6        10         0
 
 
